@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: hwb(332 1% 85%);
+  background-color: hwb(125 0% 78%);
   overflow: hidden;
 }
 
@@ -8,7 +8,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #00cc00;
+  color: #18ff18;
   text-align: center;
   padding: 20px 16px;
   text-decoration: none;
